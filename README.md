@@ -1,0 +1,2 @@
+# Project-Face-Recognition
+REGISTER/LOGIN MANAGEMENT USING OPENCV
